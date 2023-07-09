@@ -1,0 +1,114 @@
+{
+ "accentColor": {
+  "lightColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ },
+ "accentTextColor": {
+  "lightColor": {
+   "red": 1.0,
+   "green": 0.7607843137254902,
+   "blue": 0.8196078431372549,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 1.0,
+   "green": 0.7607843137254902,
+   "blue": 0.8196078431372549,
+   "alpha": 1
+  }
+ },
+ "foregroundColor": {
+  "lightColor": {
+   "red": 1.0,
+   "green": 0.8392156862745098,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 1.0,
+   "green": 0.8392156862745098,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ },
+ "backgroundColor": {
+  "lightColor": {
+   "red": 0.8470588235294118,
+   "green": 0.8862745098039215,
+   "blue": 0.8627450980392157,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.8470588235294118,
+   "green": 0.8862745098039215,
+   "blue": 0.8627450980392157,
+   "alpha": 1
+  }
+ },
+ "overlayColor": {
+  "lightColor": {
+   "red": 0.8470588235294118,
+   "green": 0.8862745098039215,
+   "blue": 0.8627450980392157,
+   "alpha": 0.3
+  },
+  "darkColor": {
+   "red": 0.8470588235294118,
+   "green": 0.8862745098039215,
+   "blue": 0.8627450980392157,
+   "alpha": 0.3
+  }
+ },
+ "separatorColor": {
+  "lightColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ },
+ "bodyTextColor": {
+  "lightColor": {
+   "red": 0.7411764705882353,
+   "green": 0.8784313725490196,
+   "blue": 0.996078431372549,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.7411764705882353,
+   "green": 0.8784313725490196,
+   "blue": 0.996078431372549,
+   "alpha": 1
+  }
+ },
+ "subtitleTextColor": {
+  "lightColor": {
+   "red": 1.0,
+   "green": 0.8980392156862745,
+   "blue": 0.8509803921568627,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 1.0,
+   "green": 0.8980392156862745,
+   "blue": 0.8509803921568627,
+   "alpha": 1
+  }
+ }
+}
