@@ -1,0 +1,114 @@
+{
+ "accentColor": {
+  "lightColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ },
+ "accentTextColor": {
+  "lightColor": {
+   "red": 0.6,
+   "green": 0.6,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.6,
+   "green": 0.6,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ },
+ "foregroundColor": {
+  "lightColor": {
+   "red": 0.9215686274509803,
+   "green": 0.9215686274509803,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.9215686274509803,
+   "green": 0.9215686274509803,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ },
+ "backgroundColor": {
+  "lightColor": {
+   "red": 0.9215686274509803,
+   "green": 0.9215686274509803,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.9215686274509803,
+   "green": 0.9215686274509803,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ },
+ "overlayColor": {
+  "lightColor": {
+   "red": 0.9215686274509803,
+   "green": 0.9215686274509803,
+   "blue": 1.0,
+   "alpha": 0.3
+  },
+  "darkColor": {
+   "red": 0.9215686274509803,
+   "green": 0.9215686274509803,
+   "blue": 1.0,
+   "alpha": 0.3
+  }
+ },
+ "separatorColor": {
+  "lightColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ },
+ "bodyTextColor": {
+  "lightColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.8,
+   "green": 0.8,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ },
+ "subtitleTextColor": {
+  "lightColor": {
+   "red": 0.6,
+   "green": 0.6,
+   "blue": 1.0,
+   "alpha": 1
+  },
+  "darkColor": {
+   "red": 0.6,
+   "green": 0.6,
+   "blue": 1.0,
+   "alpha": 1
+  }
+ }
+}
